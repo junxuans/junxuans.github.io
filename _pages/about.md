@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My name is Junxuan (Helen) Shen, a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), and I am privileged to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). I am currently supported by Hewlett Packard Fellowship from MIT School of Engineering. 
+My name is Junxuan (Helen) Shen, a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am privileged to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). I am currently supported by Hewlett Packard Fellowship from MIT School of Engineering. 
 
 I am broadly interested in online algorithms with human feedback, with tools from probability and optimization, and with applications such as content moderation and adversarial interactions.
 
