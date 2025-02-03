@@ -6,7 +6,7 @@ contact: junxuan at mit dot edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: helen profile pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
