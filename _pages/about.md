@@ -6,7 +6,7 @@ contact: junxuan at mit dot edu
 
 profile:
   align: right
-  image: helen profile pic.jpg
+  image: helen_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>junxuan at mit dot edu</p>
