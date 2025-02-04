@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-contact: junxuan at mit dot edu
+contact:
 
 profile:
   align: right
