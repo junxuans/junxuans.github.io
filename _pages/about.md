@@ -29,6 +29,6 @@ latest_posts:
 
 Hi! My name is Junxuan (Helen) Shen, a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am honored to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). I am currently supported by the Hewlett Packard Fellowship from MIT School of Engineering. 
 
-I am interested in designing provable online algorithms with human-AI interactions, with tools from stochastic processes and optimization, and with applications such as content moderation and strategic learning.
+My research focuses on designing online algorithms that involve human-AI interactions, leveraging tools from stochastic processes and optimization. I am particularly interested in building theoretical models that address practical challenges, with a goal of maximizing revenue and/or efficiency.
 
 Before joining MIT, I graduated from [Caltech](https://www.cms.caltech.edu/) in 2024 with a B.S. degree in computer science and mathematics, where I was fortunate to be mentored by [Adam Wierman](https://adamwierman.com/), [Guannan Qu](https://www.guannanqu.com/), [Nicolas Christianson](https://nicochristianson.com/), and [Adam Sheffer](https://geometrynyc.wixsite.com/adamsh), and explored research topics including [learning-augmented algorithms](https://proceedings.mlr.press/v206/christianson23a.html), [control+learning](https://proceedings.mlr.press/v242/shen24a.html), and [extremal combinatorics](https://arxiv.org/abs/2310.00191).
