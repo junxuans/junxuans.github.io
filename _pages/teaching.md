@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-Here are some courses I have TA'ed for:
+Here are some courses I have worked (or will be working) as a teaching assistant for:
 
 Caltech:
 
@@ -15,3 +15,7 @@ CS/CNS/EE 155 [Machine Learning and Data Mining](https://sites.google.com/view/2
 CS 152 [Introduction to Cryptography](https://users.cms.caltech.edu/~vidick/teaching/cs152_Fall22.html)
 
 ACM/IDS 104 [Applied Linear Algebra](https://www.cms.caltech.edu/academics/courses/acmids-104)
+
+MIT:
+
+6.5220 Randomized Algorithms
