@@ -12,7 +12,7 @@ Caltech:
 
 2021 Fall, CS 152 [Introduction to Cryptography](https://users.cms.caltech.edu/~vidick/teaching/cs152_Fall22.html)
 
-2021 Winter, CS/CNS/EE 155 [Machine Learning and Data Mining](https://sites.google.com/view/2023cs155/home)
+2022 Winter, CS/CNS/EE 155 [Machine Learning and Data Mining](https://sites.google.com/view/2023cs155/home)
 
 2022 Fall, ACM/IDS 104 [Applied Linear Algebra](https://www.cms.caltech.edu/academics/courses/acmids-104)
 
