@@ -29,6 +29,6 @@ latest_posts:
 
 Hi! My name is Junxuan (Helen) Shen, a first-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am honored to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). I am currently supported by the Hewlett Packard Fellowship from MIT School of Engineering. 
 
-My work explores the intersection of EconCS and Learning Theory. In particular, I am interested in exploring new models in multi-armed bandits and optimal stopping theory, inspired by practical challenges encountered in online markets, with a goal of maximizing revenue and/or efficiency.
+My work explores the intersection of EconCS and Learning Theory. In particular, I am interested in exploring new models in multi-armed bandits, queueing theory, and optimal stopping theory, inspired by practical challenges encountered in online markets, with a goal of maximizing revenue and/or efficiency.
 
 Before joining MIT, I graduated from [Caltech](https://www.cms.caltech.edu/) in 2024 with a B.S. degree in computer science and mathematics, where I was fortunate to be mentored by [Adam Wierman](https://adamwierman.com/), [Guannan Qu](https://www.guannanqu.com/), [Nicolas Christianson](https://nicochristianson.com/), and [Adam Sheffer](https://geometrynyc.wixsite.com/adamsh), and explored research topics including [learning-augmented algorithms](https://proceedings.mlr.press/v206/christianson23a.html), [control+learning](https://proceedings.mlr.press/v242/shen24a.html), and [extremal combinatorics](https://arxiv.org/abs/2310.00191).
