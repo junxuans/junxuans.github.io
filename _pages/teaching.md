@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
-Here are some courses I have worked (or will be working) as a teaching assistant for:
+Here are some courses I have worked as a teaching assistant for:
 
 Caltech:
 
@@ -18,4 +18,4 @@ Caltech:
 
 MIT:
 
-2025 Fall, 6.5220 Randomized Algorithms
+2025 Fall, 6.5220 [Randomized Algorithms](https://courses.csail.mit.edu/6.856/current)
