@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Junxuan (Helen) Shen, a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am honored to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
+Hi! My name is Junxuan (Helen) Shen, a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am fortunate to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
 My work explores the intersection of EconCS and Learning Theory. In particular, I am interested in leveraging machine-learned predictions with various costs and qualities for (near-)optimal sequential decision-making under uncertainty.
 
