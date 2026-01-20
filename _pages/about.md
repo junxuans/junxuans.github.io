@@ -29,6 +29,6 @@ latest_posts:
 
 Hi! My name is Junxuan (Helen) Shen, a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am fortunate to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
 
-My work explores the intersection of EconCS and Learning Theory. In particular, I am interested in leveraging machine-learned predictions with various costs and qualities for (near-)optimal sequential decision-making under uncertainty.
+My research focuses on designing practical algorithms for sequential decision-making under uncertainty, with an emphasis on methods that work under real-world constraints and imperfect information. Applications of my work include online experimentation, resource allocation, and modern ML systems.
 
 Before joining MIT, I graduated from [Caltech](https://www.cms.caltech.edu/) in 2024 with a Bachelor of Science degree in computer science and mathematics, where I was fortunate to be mentored by Professors [Adam Wierman](https://adamwierman.com/), [Guannan Qu](https://www.guannanqu.com/), [Nicolas Christianson](https://nicochristianson.com/), and [Adam Sheffer](https://geometrynyc.wixsite.com/adamsh), and explored research topics including [metrical task systems with ML predictions](https://proceedings.mlr.press/v206/christianson23a.html), [control+learning](https://proceedings.mlr.press/v242/shen24a.html), and [extremal combinatorics](https://arxiv.org/abs/2310.00191).
