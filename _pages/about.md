@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Junxuan/Helen, a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am fortunate to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/).
+Hi! My name is Junxuan/Helen, a second-year PhD student at [MIT EECS](https://www.eecs.mit.edu/), where I am fortunate to be advised by [Prof. Thodoris Lykouris](https://mitmgmtfaculty.mit.edu/tlykouris/). I was supported by the Hewlett-Packard fellowship from MIT School of Engineering in my first year.
 
 My research focuses on designing practical algorithms for sequential decision-making under uncertainty, with an emphasis on optimally using machine-learned predictions with different costs and qualities. I am interested in applications including online experimentation, queueing systems, and embodied agents.
 
