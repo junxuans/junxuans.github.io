@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Junxuan. I am a second-year PhD student in EECS at MIT. My research interests are in robot learning, with a focus on hierarchical planning and sequential decision-making for robotic manipulation. More broadly, I am interested in building systems that combine learning, structure, and physical reasoning, using tools from 3D perception and generative modeling.
+Hi! My name is Junxuan. I am a third-year PhD student in EECS at MIT, and I am fortunate to be advised by Professor Yilun Du. My research interests lie at the intersection of generative modeling, robot learning, and planning. I am particularly interested in developing novel methods that enable robots to robustly generalize to new tasks, environments, and problem structures beyond those encountered during training.
 
 I received a Master of Science degree in EECS from MIT, where I was advised by Professor [Thodoris Lykouris](https://mitsloan.mit.edu/faculty/directory/thodoris-lykouris) and worked on principled algorithms for sequential decision-making under uncertainty, with applications in sequential experiments and queueing systems.
 
