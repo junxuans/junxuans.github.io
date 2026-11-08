@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](https://yilundu.github.io/). I work at the intersection of **generative modeling, robot learning, and planning**. I am particularly interested in compositional methods that improve robots' ability to reason about the physical world and solve long-horizon tasks. My broader goal is to make learning-based robot systems more reliable for industrial and field applications.
+Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](https://yilundu.github.io/). I work at the intersection of **generative modeling, robot learning, and planning**. I am particularly interested in developing compositional methods that improve robots' abilities to reason about the physical world and solve long-horizon tasks. My broader goal is to make learning-based robot systems more reliable for industrial and field applications.
 
 ### Robot learning research
 
@@ -41,7 +41,7 @@ _Preprint, 2026._ [Paper](https://arxiv.org/abs/2610.04741) · [Project page](ht
 
 See my [papers and preprints]({{ '/publications/' | relative_url }}) for the full list.
 
-### Background
+### Before robot learning
 
 I received my MS in EECS from MIT in May 2026, advised by Professor [Thodoris Lykouris](https://mitsloan.mit.edu/faculty/directory/thodoris-lykouris). My master's research focused on theoretical aspects of online decision-making and online learning, including learning-augmented scheduling and Bayesian optimal stopping.
 
