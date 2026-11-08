@@ -53,7 +53,7 @@
       {% assign author_array_size = entry.author_array | size %}
 
       {% assign author_array_limit = author_array_size %}
-      {% if site.max_author_limit and author_array_size > site.max_author_limit %}
+      {% if entry.author_display != 'all' and site.max_author_limit and author_array_size > site.max_author_limit %}
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
@@ -144,6 +144,10 @@
         </i>
       {% endif %}
     </div>
+
+    {% if entry.author_order == 'alphabetical' %}
+      <div class="author-order"><small>Authors listed alphabetically.</small></div>
+    {% endif %}
 
     <!-- Journal/Book title and date -->
     {% assign proceedings = 'inproceedings,incollection' | split: ',' %}

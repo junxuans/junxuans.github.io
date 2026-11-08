@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 6
 ---
+
 Here are some courses I have worked as a teaching assistant for:
 
 Caltech:

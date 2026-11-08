@@ -26,8 +26,23 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! My name is Junxuan. I am a PhD student at MIT EECS, and I am fortunate to be advised by Professor [Yilun Du](https://yilundu.github.io/). My research interests lie at the intersection of generative modeling, robot learning, and planning. I am particularly interested in developing novel methods that enable robots to robustly generalize to new tasks, environments, and problem structures beyond those encountered during training.
+Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](https://yilundu.github.io/). I work at the intersection of **generative modeling, robot learning, and planning**. I am particularly interested in compositional methods that improve robots' ability to reason about the physical world and solve long-horizon tasks. My broader goal is to make learning-based robot systems more reliable for industrial and field applications.
 
-I received a Master of Science degree in EECS from MIT, where I was advised by Professor [Thodoris Lykouris](https://mitsloan.mit.edu/faculty/directory/thodoris-lykouris) and worked on designing principled algorithms for online decision-making and online learning.
+### Robot learning research
 
-Before joining MIT, I graduated from Caltech in 2024 with a Bachelor of Science degree in computer science and mathematics, where I was fortunate to be mentored by Professors [Adam Wierman](https://adamwierman.com/), [Guannan Qu](https://www.guannanqu.com/), [Nicolas Christianson](https://nicochristianson.com/), and [Adam Sheffer](https://geometrynyc.wixsite.com/adamsh), and explored research topics including [metrical task systems with ML predictions](https://proceedings.mlr.press/v206/christianson23a.html), [control+learning](https://proceedings.mlr.press/v242/shen24a.html), and [extremal combinatorics](https://www.combinatorics.org/ojs/index.php/eljc/article/view/v32i1p37).
+**Hybrid Reasoning through Compositional Structural Energy Minimization**<br>
+**Junxuan Shen**, Haonan Chen, Weirui Ye, Yilun Du<br>
+_Under review._ [Paper](https://openreview.net/pdf?id=yxn7JDdGNq)
+
+**Robot Learning with Visual Predicted Force**<br>
+Haonan Chen\*, Feiyang Wu\*, Yuxiang Ma, Mustafa Mete, Pengfei Ye, **Junxuan Shen**, Cheng Zhu, Aurora Ruggeri, Kelvin Cheung, Jiayuan Mao, Edward Adelson, Jiajun Wu, Robert D. Howe, Yilun Du<br>
+<small>\* Equal contribution.</small><br>
+_Preprint, 2026._ [Paper](https://arxiv.org/abs/2610.04741) · [Project page](https://visual-force.github.io/)
+
+See my [papers and preprints]({{ '/publications/' | relative_url }}) for the full list.
+
+### Background
+
+I received my MS in EECS from MIT in May 2026, advised by Professor [Thodoris Lykouris](https://mitsloan.mit.edu/faculty/directory/thodoris-lykouris). My master's research focused on theoretical aspects of online decision-making and online learning, including learning-augmented scheduling and Bayesian optimal stopping.
+
+Before MIT, I earned my BS in computer science and mathematics from Caltech in 2024. I was very fortunate to work with Professors [Adam Wierman](https://adamwierman.com/), [Guannan Qu](https://www.guannanqu.com/), [Nicolas Christianson](https://nicochristianson.com/), and [Adam Sheffer](https://geometrynyc.wixsite.com/adamsh) on learning-augmented algorithms, control, and extremal combinatorics.
