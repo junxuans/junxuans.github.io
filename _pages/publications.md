@@ -17,7 +17,7 @@ Papers and preprints, grouped by research area. Manuscripts under review are lab
 
 {% bibliography --query @*[research_area=robotics]* %}
 
-<h2>Learning, Optimization &amp; Theory</h2>
+<h2>Optimization &amp; Theory</h2>
 
 {% bibliography --query @*[research_area=theory]* %}
 
