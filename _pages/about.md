@@ -32,8 +32,7 @@ Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](ht
 
 **Hybrid Reasoning through Compositional Structural Energy Minimization**<br>
 **Junxuan Shen**, Haonan Chen, Weirui Ye, Yilun Du<br>
-_Under review._ [Paper](https://openreview.net/pdf?id=yxn7JDdGNq)
-
+_Under review._
 **Robot Learning with Visual Predicted Force**<br>
 Haonan Chen\*, Feiyang Wu\*, Yuxiang Ma, Mustafa Mete, Pengfei Ye, **Junxuan Shen**, Cheng Zhu, Aurora Ruggeri, Kelvin Cheung, Jiayuan Mao, Edward Adelson, Jiajun Wu, Robert D. Howe, Yilun Du<br>
 <small>\* Equal contribution.</small><br>
