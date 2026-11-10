@@ -21,6 +21,6 @@ MIT:
 
 2025 Fall, 6.5220 [Randomized Algorithms](https://courses.csail.mit.edu/6.856/current), instructor: Prof. David Karger
 
-2026 Fall, 6.7900 [Machine Learning](https://gradml.mit.edu/), instructors: Prof. Tamara Broderick, Prof. Guy Bresler
+2026 Fall, 6.7900 [Machine Learning](https://gradml.mit.edu/), instructors: Prof. Guy Bresler, Prof. Tamara Broderick
 
 2027 Spring, 6.7720 [Discrete Probability and Stochastic Processes](https://kuikuiliu.github.io/teaching/sp2025), instructor: Prof. Kuikui Liu
