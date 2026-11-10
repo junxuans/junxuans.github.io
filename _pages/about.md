@@ -26,7 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](https://yilundu.github.io/). I work at the intersection of **generative modeling, robot learning, and planning**. I am particularly interested in developing compositional methods that improve robots' abilities to reason about the physical world and solve long-horizon tasks.
+Hi! I'm Junxuan, a PhD student in EECS at MIT advised by Professor [Yilun Du](https://yilundu.github.io/). I work at the intersection of **generative modeling, robot learning, and planning**. I am particularly interested in developing compositional methods that improve robots' physical reasoning abilities to solve long-horizon tasks.
 
 ### Robot learning research
 
